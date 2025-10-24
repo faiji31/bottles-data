@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "HydroFlow Stainless Steel Bottle",
+    "brand": "HydroFlow",
+    "capacity_ml": 750,
+    "price_usd": 19.99,
+    "color": "Blue",
+    "material": "Stainless Steel",
+    "image": "https://example.com/images/hydroflow-blue.jpg"
+  },
+  {
+    "id": 2,
+    "name": "EcoSip Bamboo Bottle",
+    "brand": "EcoSip",
+    "capacity_ml": 600,
+    "price_usd": 24.50,
+    "color": "Natural Bamboo",
+    "material": "Bamboo & Glass",
+    "image": "https://example.com/images/ecosip-bamboo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "AquaSport Pro",
+    "brand": "AquaSport",
+    "capacity_ml": 1000,
+    "price_usd": 15.00,
+    "color": "Black",
+    "material": "BPA-Free Plastic",
+    "image": "https://example.com/images/aquasport-pro.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PureHydrate Insulated Bottle",
+    "brand": "PureHydrate",
+    "capacity_ml": 500,
+    "price_usd": 22.99,
+    "color": "Silver",
+    "material": "Stainless Steel",
+    "image": "https://example.com/images/purehydrate-silver.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ChillMate Frost",
+    "brand": "ChillMate",
+    "capacity_ml": 800,
+    "price_usd": 17.75,
+    "color": "White",
+    "material": "Aluminum",
+    "image": "https://example.com/images/chillmate-frost.jpg"
+  }
+]
